@@ -1,0 +1,139 @@
+body{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.css-ffhzg2 {
+  background-image: url("https://w0.peakpx.com/wallpaper/468/527/HD-wallpaper-design-material-geometric-shapes-creative-blue-background-abstract-material.jpg");
+
+  background-repeat: no-repeat;
+ background-size: cover;
+}
+.st-af {
+  font-size: 1.5rem;
+}
+.css-16huue1 {
+  color: #0c2d48;
+  font-weight: bolder;
+  font-size: 26px;
+}
+p, ol, ul, dl {
+  margin: 32px auto;
+  font-size: 1.4rem;
+  font-weight: bolder;
+  text-align: center;
+  color: #0c2d48;
+}
+.Ans{
+  text-align: left !important;
+  padding-left: 2rem !important;
+}
+.Ans p{
+  margin: 10px auto !important;
+}
+.css-15zrgzn {
+  display: none;
+}
+.st-ce, .st-cb {
+  padding-bottom: 0px;
+}
+.st-cd, .st-ca {
+  padding-top: 0px;
+}
+
+code {
+  color: #2ff3e0;
+  font-weight: bolder;
+  font-size: 71%;
+}
+h2{
+font-family: 'HP Simplified Hans';
+font-weight: bolder;
+font-size: 2.5rem;
+text-align: center;
+text-shadow: 2px 2px #4c5270;
+color: #0c2d48;
+}
+.css-16huue1 {
+  font-size: 20px;
+}
+.css-r698ls {
+  display: none;
+}
+.css-2ykyy6 {
+  display: none;
+}
+.css-183lzff {
+  font-size: 44px;
+  text-align: center;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+.css-1q8dd3e {
+  margin-left: 44%;
+  margin-right: auto;
+  font-size: 1.5rem;
+  margin-top: 3%;
+}
+.css-18e3th9 {
+  flex: 1 1 0%;
+  width: 85%;
+  padding: 6rem 1rem 10rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  min-width: auto;
+  max-width: initial;
+}
+.css-1dsu4p8 {
+  font-size: 3rem;
+  text-align: center;
+}
+.css-1rc53cf {
+  width: 50%;
+  border: 5px solid #e3e8e9;
+  margin-left: 25%;
+  margin-right: auto;
+}
+.css-1j3ha61 {
+  background-color: #bbe7fe;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+}
+.css-ps6290 {
+  text-align: center !important;
+}
+.title {
+  color: #f8ea8c;
+font-family: 'HP Simplified Hans';
+font-weight: bolder;
+font-size: 4rem;
+text-align: center;
+margin-bottom: 3rem;
+text-shadow: 4px 4px #4c5270;
+}
+table th{
+  background-color: #e5ddc8;
+  color: #004369;
+  font-weight: bolder;
+  text-shadow: 2px 2px #21b6a8;
+}
+th,td{
+  border: 3px solid #a47551 !important;
+  text-shadow: 2px 2px #fff4bd !important;
+}
+table{
+  background-color: #e5ddc8;
+  color: #a47551;
+  text-align: center;
+  font-family: Corbel;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius: 5%;
+
+}
+.line{
+  height: 10px !important;
+  border: 0;
+	box-shadow: 0 10px 10px -10px black inset;
+}
