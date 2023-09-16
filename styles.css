@@ -4,10 +4,9 @@ body{
 }
 
 .css-ffhzg2 {
-  background-image: url("https://img.freepik.com/free-photo/artistic-blurry-colorful-wallpaper-background_58702-8166.jpg?w=1060&t=st=1694872675~exp=1694873275~hmac=c28a9e96cea94273d792d499d6b09d82beb778fe0e8238aa81271b339e3a237d");
+	
+ background-image: linear-gradient( 180.7deg,  rgba(0,213,255,1) 2.5%, rgba(79,255,255,1) 97.7% );
 
-  background-repeat: no-repeat;
- background-size: cover;
 }
 .st-af {
   font-size: 1.5rem;
